@@ -1,4 +1,2 @@
 # coursera-test
-Coursera test repository op
-ascasc
-
+Coursera test repository
